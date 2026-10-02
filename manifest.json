@@ -1,0 +1,16 @@
+{
+  "name": "Meu Treino • Gi",
+  "short_name": "Meu Treino",
+  "lang": "pt-BR",
+  "start_url": "./Meu_Treino_Gi_1.0.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#f7f2ef",
+  "theme_color": "#765d6d",
+  "description": "Acompanhamento de musculação, corrida, evolução, metas e conquistas da Gi",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
